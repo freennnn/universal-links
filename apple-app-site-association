@@ -3,19 +3,19 @@
 		"apps": [],
 		"details": [
 			{
-				"appID": "7M8XGUGE24.com.visa.PayProvider1"
+				"appID": "7M8XGUGE24.com.visa.PayProvider1",
 				"paths": [ "*"]
 			}
 			{
-				"appID": "7M8XGUGE24.com.visa.PayProvider2"
+				"appID": "7M8XGUGE24.com.visa.PayProvider2",
 				"paths": ["*"]
 			}
 			{
-				"appID": "7M8XGUGE24.com.visa.PayProvider3"
+				"appID": "7M8XGUGE24.com.visa.PayProvider3",
 				"paths": ["*"]
 			}
 			{
-				"appID": "7M8XGUGE24.com.visa.MerchantApp1"
+				"appID": "7M8XGUGE24.com.visa.MerchantApp1",
 				"paths": ["*"]
 			}
 		]
