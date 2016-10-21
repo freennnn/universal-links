@@ -5,15 +5,15 @@
 			{
 				"appID": "7M8XGUGE24.com.visa.PayProvider1",
 				"paths": [ "*"]
-			}
+			},
 			{
 				"appID": "7M8XGUGE24.com.visa.PayProvider2",
 				"paths": ["*"]
-			}
+			},
 			{
 				"appID": "7M8XGUGE24.com.visa.PayProvider3",
 				"paths": ["*"]
-			}
+			},
 			{
 				"appID": "7M8XGUGE24.com.visa.MerchantApp1",
 				"paths": ["*"]
